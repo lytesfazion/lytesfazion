@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/liwamtesfazion/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 <a href="https://github.com/lytesfazion">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lytesfazion&theme=material-palenight" />
@@ -12,8 +14,6 @@
 <a href="https://github.com/lytesfazion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytesfazion&layout=compact&theme=material-palenight" />
 </a><br>
-
-<img src="/Users/liwamtesfazion/Downloads/lytesfazion-2021-page-1.gif"/>
 
 
 <!--
